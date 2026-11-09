@@ -1,0 +1,395 @@
+{
+ "snapshot_end_utc": "2026-11-08",
+ "built_at_utc": "2026-11-09T23:14:41Z",
+ "sources": {
+  "chain": "https://api.nearblocks.io/v1/charts",
+  "intents": "https://api.llama.fi/summary/dexs/near-intents , https://api.llama.fi/summary/fees/near-intents",
+  "sample": "https://archival-rpc.mainnet.fastnear.com (JSON-RPC block + chunk)"
+ },
+ "chain": {
+  "txns": {
+   "avg_30d": 661021.0,
+   "window": [
+    "2026-10-10",
+    "2026-11-08"
+   ],
+   "prev_30d_avg": 852195.0,
+   "pct_vs_prev_30d": -22.4,
+   "same_30d_year_ago_avg": 4465527.0,
+   "year_ago_window": [
+    "2025-10-10",
+    "2025-11-08"
+   ],
+   "pct_yoy": -85.2
+  },
+  "active_accounts": {
+   "avg_30d": 57527.0,
+   "window": [
+    "2026-10-10",
+    "2026-11-08"
+   ],
+   "prev_30d_avg": 75965.5,
+   "pct_vs_prev_30d": -24.3,
+   "same_30d_year_ago_avg": 264410.7,
+   "year_ago_window": [
+    "2025-10-10",
+    "2025-11-08"
+   ],
+   "pct_yoy": -78.2
+  },
+  "new_accounts": {
+   "avg_30d": 9428.7,
+   "window": [
+    "2026-10-10",
+    "2026-11-08"
+   ],
+   "prev_30d_avg": 11900.4,
+   "pct_vs_prev_30d": -20.8,
+   "same_30d_year_ago_avg": 223086.4,
+   "year_ago_window": [
+    "2025-10-10",
+    "2025-11-08"
+   ],
+   "pct_yoy": -95.8
+  },
+  "txn_fee": {
+   "avg_30d": 1161.4,
+   "window": [
+    "2026-10-10",
+    "2026-11-08"
+   ],
+   "prev_30d_avg": 1168.5,
+   "pct_vs_prev_30d": -0.6,
+   "same_30d_year_ago_avg": 3312.3,
+   "year_ago_window": [
+    "2025-10-10",
+    "2025-11-08"
+   ],
+   "pct_yoy": -64.9
+  },
+  "txns_30d_avg_peak": {
+   "date": "2025-01-01",
+   "value": 8296230
+  },
+  "gas_fees_usd_30d": 165810,
+  "gas_fees_near_30d": 34842.0,
+  "near_price_last": 3.73202929
+ },
+ "intents": {
+  "volume_usd": {
+   "sum_30d": 3714703671,
+   "window": [
+    "2026-10-10",
+    "2026-11-08"
+   ],
+   "prev_30d": 4759604836,
+   "pct_vs_prev_30d": -22.0,
+   "same_30d_year_ago": 2322418682,
+   "year_ago_window": [
+    "2025-10-10",
+    "2025-11-08"
+   ],
+   "pct_yoy": 59.9
+  },
+  "fees_usd": {
+   "sum_30d": 5781155,
+   "window": [
+    "2026-10-10",
+    "2026-11-08"
+   ],
+   "prev_30d": 8001834,
+   "pct_vs_prev_30d": -27.8,
+   "same_30d_year_ago": 3744153,
+   "year_ago_window": [
+    "2025-10-10",
+    "2025-11-08"
+   ],
+   "pct_yoy": 54.4
+  },
+  "revenue_usd": {
+   "sum_30d": 1857863,
+   "window": [
+    "2026-10-10",
+    "2026-11-08"
+   ],
+   "prev_30d": 2135866,
+   "pct_vs_prev_30d": -13.0,
+   "same_30d_year_ago": 423175,
+   "year_ago_window": [
+    "2025-10-10",
+    "2025-11-08"
+   ],
+   "pct_yoy": 339.0
+  },
+  "volume_usd_cumulative": 37005533919,
+  "first_day": "2024-12-10",
+  "buyback_usd_since_2026_02_23": 7891778,
+  "revenue_run_rate_usd_year": 22604000,
+  "fee_take_rate_bps_30d": 15.56,
+  "captured_share_of_fees_30d": 0.321,
+  "intents_fees_vs_l1_gas_fees_30d_x": 34.9,
+  "market_cap_usd": 4778818023,
+  "market_cap_fetched_at_utc": "2026-11-09T22:44:45Z",
+  "revenue_run_rate_pct_of_market_cap": 0.47
+ },
+ "monthly": {
+  "2024-01": {
+   "gas_usd": 311245,
+   "txns": 89106115
+  },
+  "2024-02": {
+   "gas_usd": 457427,
+   "txns": 131351920
+  },
+  "2024-03": {
+   "gas_usd": 1153880,
+   "txns": 172491564
+  },
+  "2024-04": {
+   "gas_usd": 1070418,
+   "txns": 227618072
+  },
+  "2024-05": {
+   "gas_usd": 929911,
+   "txns": 231823611
+  },
+  "2024-06": {
+   "gas_usd": 798106,
+   "txns": 239366849
+  },
+  "2024-07": {
+   "gas_usd": 653045,
+   "txns": 219458517
+  },
+  "2024-08": {
+   "gas_usd": 477307,
+   "txns": 197528870
+  },
+  "2024-09": {
+   "gas_usd": 533330,
+   "txns": 215693780
+  },
+  "2024-10": {
+   "gas_usd": 548195,
+   "txns": 216751919
+  },
+  "2024-11": {
+   "gas_usd": 641408,
+   "txns": 216072469
+  },
+  "2024-12": {
+   "volume_usd": 2970992,
+   "fees_usd": 0,
+   "revenue_usd": 0,
+   "gas_usd": 931419,
+   "txns": 255882809
+  },
+  "2025-01": {
+   "volume_usd": 6405486,
+   "fees_usd": 0,
+   "revenue_usd": 0,
+   "gas_usd": 680983,
+   "txns": 222309266
+  },
+  "2025-02": {
+   "volume_usd": 13194437,
+   "fees_usd": 0,
+   "revenue_usd": 0,
+   "gas_usd": 391040,
+   "txns": 192353815
+  },
+  "2025-03": {
+   "volume_usd": 23456822,
+   "fees_usd": 0,
+   "revenue_usd": 0,
+   "gas_usd": 349650,
+   "txns": 204459064
+  },
+  "2025-04": {
+   "volume_usd": 45321918,
+   "fees_usd": 0,
+   "revenue_usd": 0,
+   "gas_usd": 276129,
+   "txns": 187849986
+  },
+  "2025-05": {
+   "volume_usd": 90736625,
+   "fees_usd": 96,
+   "revenue_usd": 0,
+   "gas_usd": 303638,
+   "txns": 162672900
+  },
+  "2025-06": {
+   "volume_usd": 184121616,
+   "fees_usd": 95437,
+   "revenue_usd": 0,
+   "gas_usd": 233860,
+   "txns": 146815770
+  },
+  "2025-07": {
+   "volume_usd": 235933309,
+   "fees_usd": 217997,
+   "revenue_usd": 0,
+   "gas_usd": 269387,
+   "txns": 148950170
+  },
+  "2025-08": {
+   "volume_usd": 331560249,
+   "fees_usd": 419519,
+   "revenue_usd": 0,
+   "gas_usd": 283290,
+   "txns": 155580573
+  },
+  "2025-09": {
+   "volume_usd": 483791180,
+   "fees_usd": 712949,
+   "revenue_usd": 18,
+   "gas_usd": 273816,
+   "txns": 140330930
+  },
+  "2025-10": {
+   "volume_usd": 1723102048,
+   "fees_usd": 2496648,
+   "revenue_usd": 18,
+   "gas_usd": 258029,
+   "txns": 140982405
+  },
+  "2025-11": {
+   "volume_usd": 3661054797,
+   "fees_usd": 7758092,
+   "revenue_usd": 768047,
+   "gas_usd": 215861,
+   "txns": 128032427
+  },
+  "2025-12": {
+   "volume_usd": 2009785103,
+   "fees_usd": 4116558,
+   "revenue_usd": 176629,
+   "gas_usd": 139878,
+   "txns": 119122904
+  },
+  "2026-01": {
+   "volume_usd": 2724468717,
+   "fees_usd": 4410217,
+   "revenue_usd": 359240,
+   "gas_usd": 130769,
+   "txns": 108680994
+  },
+  "2026-02": {
+   "volume_usd": 2378261095,
+   "fees_usd": 4134501,
+   "revenue_usd": 663127,
+   "gas_usd": 77523,
+   "txns": 97681097
+  },
+  "2026-03": {
+   "volume_usd": 2079695033,
+   "fees_usd": 3590113,
+   "revenue_usd": 563460,
+   "gas_usd": 102178,
+   "txns": 107857335
+  },
+  "2026-04": {
+   "volume_usd": 1895540502,
+   "fees_usd": 3207256,
+   "revenue_usd": 258740,
+   "gas_usd": 31446,
+   "txns": 28398312
+  },
+  "2026-05": {
+   "volume_usd": 1995687999,
+   "fees_usd": 3002309,
+   "revenue_usd": 619614,
+   "gas_usd": 48596,
+   "txns": 24893046
+  },
+  "2026-06": {
+   "volume_usd": 2354692014,
+   "fees_usd": 3111812,
+   "revenue_usd": 619475,
+   "gas_usd": 59886,
+   "txns": 24415046
+  },
+  "2026-07": {
+   "volume_usd": 2205579711,
+   "fees_usd": 3271913,
+   "revenue_usd": 504864,
+   "gas_usd": 47061,
+   "txns": 22874925
+  },
+  "2026-08": {
+   "volume_usd": 2777327253,
+   "fees_usd": 3836975,
+   "revenue_usd": 723262,
+   "gas_usd": 45609,
+   "txns": 21131379
+  },
+  "2026-09": {
+   "volume_usd": 4803094377,
+   "fees_usd": 7325792,
+   "revenue_usd": 1839513,
+   "gas_usd": 111282,
+   "txns": 24004533
+  },
+  "2026-10": {
+   "volume_usd": 3985641601,
+   "fees_usd": 6388076,
+   "revenue_usd": 2189521,
+   "gas_usd": 196283,
+   "txns": 22627935
+  },
+  "2026-11": {
+   "volume_usd": 994111035,
+   "fees_usd": 1596469,
+   "revenue_usd": 376481,
+   "gas_usd": 25084,
+   "txns": 5193796
+  }
+ },
+ "reconciliation": {
+  "day_utc": "2026-11-08",
+  "sample": {
+   "day_utc": "2026-11-08",
+   "method": "random produced-block sample, newly included chunks only, signed transactions",
+   "rpc": "https://archival-rpc.mainnet.fastnear.com",
+   "seed": 42,
+   "heights_sampled": 1200,
+   "height_range": [
+    223537267,
+    223688383
+   ],
+   "blocks_produced_est": 151116,
+   "mean_tx_per_block": 3.944,
+   "sd_tx_per_block": 3.292,
+   "tx_per_day_est": 596027,
+   "tx_per_day_95ci": [
+    567878,
+    624175
+   ],
+   "intents_share_of_tx": 0.1745,
+   "intents_tx_per_day_est": 104018,
+   "receipts_per_day_est": 3085915,
+   "receipts_per_tx": 5.18,
+   "repeated_chunk_headers_seen": 2
+  },
+  "nearblocks_txns": 609504,
+  "nearblocks_blocks": 151113,
+  "nearblocks_inside_95ci": true,
+  "diff_pct": -2.2,
+  "blocks_diff_pct": 0.0,
+  "short_window_noise": {
+   "day_utc": "2026-11-08",
+   "windows": 30,
+   "blocks_per_window": 20,
+   "tx_per_s_min": 1.88,
+   "tx_per_s_p10": 2.73,
+   "tx_per_s_median": 5.57,
+   "tx_per_s_p90": 10.48,
+   "tx_per_s_max": 15.39,
+   "implied_tx_per_day_range_p10_p90": [
+    235699,
+    905299
+   ]
+  }
+ }
+}

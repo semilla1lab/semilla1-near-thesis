@@ -1,0 +1,1628 @@
+{
+ "summary": {
+  "day_utc": "2026-11-07",
+  "method": "random produced-block sample, newly included chunks only, signed transactions",
+  "rpc": "https://archival-rpc.mainnet.fastnear.com",
+  "seed": 42,
+  "heights_sampled": 200,
+  "height_range": [
+   223387847,
+   223537267
+  ],
+  "blocks_produced_est": 149420,
+  "mean_tx_per_block": 4.85,
+  "sd_tx_per_block": 3.904,
+  "tx_per_day_est": 724687,
+  "tx_per_day_95ci": [
+   643834,
+   805540
+  ],
+  "intents_share_of_tx": 0.1423,
+  "intents_tx_per_day_est": 103100,
+  "receipts_per_day_est": 3577115,
+  "receipts_per_tx": 4.94,
+  "repeated_chunk_headers_seen": 0
+ },
+ "rows": [
+  {
+   "h": 223387996,
+   "produced": true,
+   "tx": 4,
+   "intents": 1,
+   "receipts": 80,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223388697,
+   "produced": true,
+   "tx": 10,
+   "intents": 0,
+   "receipts": 30,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223389550,
+   "produced": true,
+   "tx": 9,
+   "intents": 1,
+   "receipts": 42,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223389732,
+   "produced": true,
+   "tx": 5,
+   "intents": 0,
+   "receipts": 33,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223390856,
+   "produced": true,
+   "tx": 6,
+   "intents": 0,
+   "receipts": 51,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223392952,
+   "produced": true,
+   "tx": 5,
+   "intents": 3,
+   "receipts": 37,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223393361,
+   "produced": true,
+   "tx": 7,
+   "intents": 1,
+   "receipts": 31,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223394403,
+   "produced": true,
+   "tx": 7,
+   "intents": 1,
+   "receipts": 35,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223394803,
+   "produced": true,
+   "tx": 6,
+   "intents": 1,
+   "receipts": 34,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223395658,
+   "produced": true,
+   "tx": 3,
+   "intents": 0,
+   "receipts": 13,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223396081,
+   "produced": true,
+   "tx": 9,
+   "intents": 0,
+   "receipts": 19,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223396178,
+   "produced": true,
+   "tx": 6,
+   "intents": 1,
+   "receipts": 16,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223396261,
+   "produced": true,
+   "tx": 8,
+   "intents": 0,
+   "receipts": 31,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223399237,
+   "produced": true,
+   "tx": 1,
+   "intents": 0,
+   "receipts": 33,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223399859,
+   "produced": true,
+   "tx": 1,
+   "intents": 0,
+   "receipts": 13,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223400198,
+   "produced": true,
+   "tx": 1,
+   "intents": 0,
+   "receipts": 9,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223402510,
+   "produced": true,
+   "tx": 8,
+   "intents": 3,
+   "receipts": 25,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223403031,
+   "produced": true,
+   "tx": 1,
+   "intents": 0,
+   "receipts": 13,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223403280,
+   "produced": true,
+   "tx": 2,
+   "intents": 1,
+   "receipts": 21,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223404500,
+   "produced": true,
+   "tx": 0,
+   "intents": 0,
+   "receipts": 26,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223404631,
+   "produced": true,
+   "tx": 2,
+   "intents": 0,
+   "receipts": 13,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223405197,
+   "produced": true,
+   "tx": 3,
+   "intents": 1,
+   "receipts": 15,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223405515,
+   "produced": true,
+   "tx": 0,
+   "intents": 0,
+   "receipts": 7,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223405990,
+   "produced": true,
+   "tx": 11,
+   "intents": 0,
+   "receipts": 24,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223406080,
+   "produced": true,
+   "tx": 5,
+   "intents": 0,
+   "receipts": 26,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223406421,
+   "produced": true,
+   "tx": 4,
+   "intents": 0,
+   "receipts": 18,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223406457,
+   "produced": true,
+   "tx": 4,
+   "intents": 0,
+   "receipts": 35,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223406564,
+   "produced": true,
+   "tx": 4,
+   "intents": 0,
+   "receipts": 20,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223408492,
+   "produced": true,
+   "tx": 11,
+   "intents": 1,
+   "receipts": 38,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223408503,
+   "produced": true,
+   "tx": 7,
+   "intents": 0,
+   "receipts": 43,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223408763,
+   "produced": true,
+   "tx": 4,
+   "intents": 1,
+   "receipts": 21,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223410300,
+   "produced": true,
+   "tx": 1,
+   "intents": 1,
+   "receipts": 5,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223410637,
+   "produced": true,
+   "tx": 4,
+   "intents": 2,
+   "receipts": 20,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223411678,
+   "produced": true,
+   "tx": 2,
+   "intents": 2,
+   "receipts": 11,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223412159,
+   "produced": true,
+   "tx": 3,
+   "intents": 0,
+   "receipts": 32,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223412408,
+   "produced": true,
+   "tx": 0,
+   "intents": 0,
+   "receipts": 11,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223413200,
+   "produced": true,
+   "tx": 7,
+   "intents": 0,
+   "receipts": 34,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223414323,
+   "produced": true,
+   "tx": 5,
+   "intents": 0,
+   "receipts": 16,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223414640,
+   "produced": true,
+   "tx": 3,
+   "intents": 2,
+   "receipts": 20,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223414715,
+   "produced": true,
+   "tx": 6,
+   "intents": 1,
+   "receipts": 13,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223415741,
+   "produced": true,
+   "tx": 7,
+   "intents": 1,
+   "receipts": 38,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223416590,
+   "produced": true,
+   "tx": 4,
+   "intents": 1,
+   "receipts": 29,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223417031,
+   "produced": true,
+   "tx": 8,
+   "intents": 1,
+   "receipts": 39,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223417089,
+   "produced": true,
+   "tx": 6,
+   "intents": 0,
+   "receipts": 45,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223417172,
+   "produced": true,
+   "tx": 5,
+   "intents": 0,
+   "receipts": 34,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223417876,
+   "produced": true,
+   "tx": 5,
+   "intents": 0,
+   "receipts": 49,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223419567,
+   "produced": true,
+   "tx": 2,
+   "intents": 0,
+   "receipts": 58,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223420569,
+   "produced": true,
+   "tx": 1,
+   "intents": 0,
+   "receipts": 13,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223420814,
+   "produced": true,
+   "tx": 3,
+   "intents": 0,
+   "receipts": 8,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223421504,
+   "produced": true,
+   "tx": 3,
+   "intents": 1,
+   "receipts": 20,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223422531,
+   "produced": true,
+   "tx": 2,
+   "intents": 1,
+   "receipts": 18,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223424109,
+   "produced": true,
+   "tx": 5,
+   "intents": 1,
+   "receipts": 14,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223424426,
+   "produced": true,
+   "tx": 2,
+   "intents": 0,
+   "receipts": 15,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223424450,
+   "produced": true,
+   "tx": 1,
+   "intents": 0,
+   "receipts": 23,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223425299,
+   "produced": true,
+   "tx": 2,
+   "intents": 0,
+   "receipts": 25,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223427912,
+   "produced": true,
+   "tx": 1,
+   "intents": 0,
+   "receipts": 17,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223427913,
+   "produced": true,
+   "tx": 1,
+   "intents": 0,
+   "receipts": 18,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223428605,
+   "produced": true,
+   "tx": 2,
+   "intents": 0,
+   "receipts": 27,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223429307,
+   "produced": true,
+   "tx": 6,
+   "intents": 0,
+   "receipts": 21,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223429700,
+   "produced": true,
+   "tx": 3,
+   "intents": 0,
+   "receipts": 23,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223429785,
+   "produced": true,
+   "tx": 4,
+   "intents": 2,
+   "receipts": 28,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223430196,
+   "produced": true,
+   "tx": 4,
+   "intents": 0,
+   "receipts": 9,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223430485,
+   "produced": true,
+   "tx": 3,
+   "intents": 1,
+   "receipts": 24,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223430681,
+   "produced": true,
+   "tx": 1,
+   "intents": 0,
+   "receipts": 14,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223431134,
+   "produced": true,
+   "tx": 1,
+   "intents": 0,
+   "receipts": 13,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223432709,
+   "produced": true,
+   "tx": 3,
+   "intents": 0,
+   "receipts": 22,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223434679,
+   "produced": true,
+   "tx": 6,
+   "intents": 0,
+   "receipts": 16,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223438254,
+   "produced": true,
+   "tx": 9,
+   "intents": 0,
+   "receipts": 17,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223439971,
+   "produced": true,
+   "tx": 2,
+   "intents": 0,
+   "receipts": 22,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223439990,
+   "produced": true,
+   "tx": 6,
+   "intents": 3,
+   "receipts": 38,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223440577,
+   "produced": true,
+   "tx": 1,
+   "intents": 0,
+   "receipts": 22,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223442768,
+   "produced": true,
+   "tx": 1,
+   "intents": 0,
+   "receipts": 8,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223443154,
+   "produced": true,
+   "tx": 8,
+   "intents": 0,
+   "receipts": 14,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223443368,
+   "produced": true,
+   "tx": 3,
+   "intents": 0,
+   "receipts": 13,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223443585,
+   "produced": true,
+   "tx": 2,
+   "intents": 1,
+   "receipts": 22,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223444007,
+   "produced": true,
+   "tx": 1,
+   "intents": 0,
+   "receipts": 12,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223444290,
+   "produced": true,
+   "tx": 2,
+   "intents": 0,
+   "receipts": 22,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223445161,
+   "produced": true,
+   "tx": 4,
+   "intents": 1,
+   "receipts": 12,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223445340,
+   "produced": true,
+   "tx": 3,
+   "intents": 0,
+   "receipts": 13,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223445417,
+   "produced": true,
+   "tx": 2,
+   "intents": 0,
+   "receipts": 17,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223445575,
+   "produced": true,
+   "tx": 1,
+   "intents": 0,
+   "receipts": 11,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223445634,
+   "produced": true,
+   "tx": 11,
+   "intents": 0,
+   "receipts": 14,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223446360,
+   "produced": true,
+   "tx": 1,
+   "intents": 0,
+   "receipts": 21,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223446750,
+   "produced": true,
+   "tx": 11,
+   "intents": 1,
+   "receipts": 31,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223447589,
+   "produced": true,
+   "tx": 7,
+   "intents": 2,
+   "receipts": 26,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223447862,
+   "produced": true,
+   "tx": 21,
+   "intents": 1,
+   "receipts": 42,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223447890,
+   "produced": true,
+   "tx": 8,
+   "intents": 3,
+   "receipts": 33,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223448170,
+   "produced": true,
+   "tx": 3,
+   "intents": 0,
+   "receipts": 15,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223448837,
+   "produced": true,
+   "tx": 12,
+   "intents": 1,
+   "receipts": 22,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223448871,
+   "produced": true,
+   "tx": 9,
+   "intents": 0,
+   "receipts": 36,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223450238,
+   "produced": true,
+   "tx": 1,
+   "intents": 0,
+   "receipts": 15,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223450617,
+   "produced": true,
+   "tx": 3,
+   "intents": 0,
+   "receipts": 25,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223450990,
+   "produced": true,
+   "tx": 6,
+   "intents": 1,
+   "receipts": 12,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223451547,
+   "produced": true,
+   "tx": 2,
+   "intents": 1,
+   "receipts": 9,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223452022,
+   "produced": true,
+   "tx": 2,
+   "intents": 1,
+   "receipts": 25,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223452043,
+   "produced": true,
+   "tx": 5,
+   "intents": 1,
+   "receipts": 14,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223452498,
+   "produced": true,
+   "tx": 13,
+   "intents": 10,
+   "receipts": 49,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223452833,
+   "produced": true,
+   "tx": 1,
+   "intents": 0,
+   "receipts": 14,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223453753,
+   "produced": true,
+   "tx": 14,
+   "intents": 0,
+   "receipts": 22,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223456723,
+   "produced": true,
+   "tx": 2,
+   "intents": 0,
+   "receipts": 21,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223456892,
+   "produced": true,
+   "tx": 3,
+   "intents": 1,
+   "receipts": 26,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223457189,
+   "produced": true,
+   "tx": 4,
+   "intents": 1,
+   "receipts": 21,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223457283,
+   "produced": true,
+   "tx": 1,
+   "intents": 0,
+   "receipts": 25,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223457330,
+   "produced": true,
+   "tx": 3,
+   "intents": 1,
+   "receipts": 43,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223457793,
+   "produced": true,
+   "tx": 9,
+   "intents": 1,
+   "receipts": 27,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223457833,
+   "produced": true,
+   "tx": 5,
+   "intents": 1,
+   "receipts": 31,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223458033,
+   "produced": true,
+   "tx": 12,
+   "intents": 1,
+   "receipts": 47,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223458612,
+   "produced": true,
+   "tx": 7,
+   "intents": 1,
+   "receipts": 15,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223459944,
+   "produced": true,
+   "tx": 7,
+   "intents": 2,
+   "receipts": 43,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223460689,
+   "produced": true,
+   "tx": 7,
+   "intents": 0,
+   "receipts": 24,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223460716,
+   "produced": true,
+   "tx": 10,
+   "intents": 1,
+   "receipts": 16,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223460773,
+   "produced": true,
+   "tx": 15,
+   "intents": 4,
+   "receipts": 30,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223460848,
+   "produced": true,
+   "tx": 11,
+   "intents": 0,
+   "receipts": 37,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223463708,
+   "produced": true,
+   "tx": 16,
+   "intents": 3,
+   "receipts": 34,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223464701,
+   "produced": true,
+   "tx": 2,
+   "intents": 0,
+   "receipts": 14,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223464786,
+   "produced": true,
+   "tx": 2,
+   "intents": 2,
+   "receipts": 14,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223466082,
+   "produced": true,
+   "tx": 1,
+   "intents": 0,
+   "receipts": 17,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223468459,
+   "produced": true,
+   "tx": 4,
+   "intents": 0,
+   "receipts": 12,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223469561,
+   "produced": true,
+   "tx": 3,
+   "intents": 1,
+   "receipts": 46,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223470337,
+   "produced": true,
+   "tx": 5,
+   "intents": 1,
+   "receipts": 30,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223470541,
+   "produced": true,
+   "tx": 1,
+   "intents": 0,
+   "receipts": 13,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223472822,
+   "produced": true,
+   "tx": 7,
+   "intents": 0,
+   "receipts": 39,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223472855,
+   "produced": true,
+   "tx": 8,
+   "intents": 0,
+   "receipts": 38,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223474466,
+   "produced": true,
+   "tx": 8,
+   "intents": 1,
+   "receipts": 33,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223476083,
+   "produced": true,
+   "tx": 12,
+   "intents": 0,
+   "receipts": 63,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223476474,
+   "produced": true,
+   "tx": 10,
+   "intents": 2,
+   "receipts": 98,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223477021,
+   "produced": true,
+   "tx": 2,
+   "intents": 0,
+   "receipts": 18,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223477041,
+   "produced": true,
+   "tx": 3,
+   "intents": 0,
+   "receipts": 11,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223478012,
+   "produced": true,
+   "tx": 8,
+   "intents": 4,
+   "receipts": 21,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223480979,
+   "produced": true,
+   "tx": 2,
+   "intents": 1,
+   "receipts": 17,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223481951,
+   "produced": true,
+   "tx": 6,
+   "intents": 1,
+   "receipts": 20,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223482647,
+   "produced": true,
+   "tx": 14,
+   "intents": 0,
+   "receipts": 38,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223482742,
+   "produced": true,
+   "tx": 6,
+   "intents": 0,
+   "receipts": 27,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223483000,
+   "produced": true,
+   "tx": 3,
+   "intents": 0,
+   "receipts": 27,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223483485,
+   "produced": true,
+   "tx": 6,
+   "intents": 2,
+   "receipts": 18,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223484887,
+   "produced": true,
+   "tx": 10,
+   "intents": 2,
+   "receipts": 16,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223485736,
+   "produced": true,
+   "tx": 3,
+   "intents": 0,
+   "receipts": 19,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223485866,
+   "produced": true,
+   "tx": 17,
+   "intents": 2,
+   "receipts": 18,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223487077,
+   "produced": true,
+   "tx": 5,
+   "intents": 2,
+   "receipts": 27,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223487318,
+   "produced": true,
+   "tx": 2,
+   "intents": 1,
+   "receipts": 8,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223487442,
+   "produced": true,
+   "tx": 0,
+   "intents": 0,
+   "receipts": 27,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223487494,
+   "produced": true,
+   "tx": 16,
+   "intents": 1,
+   "receipts": 17,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223487886,
+   "produced": true,
+   "tx": 0,
+   "intents": 0,
+   "receipts": 30,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223488711,
+   "produced": true,
+   "tx": 9,
+   "intents": 0,
+   "receipts": 70,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223491559,
+   "produced": true,
+   "tx": 5,
+   "intents": 0,
+   "receipts": 12,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223492440,
+   "produced": true,
+   "tx": 0,
+   "intents": 0,
+   "receipts": 19,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223492547,
+   "produced": true,
+   "tx": 4,
+   "intents": 0,
+   "receipts": 18,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223493009,
+   "produced": true,
+   "tx": 4,
+   "intents": 1,
+   "receipts": 25,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223497821,
+   "produced": true,
+   "tx": 2,
+   "intents": 0,
+   "receipts": 65,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223498451,
+   "produced": true,
+   "tx": 2,
+   "intents": 0,
+   "receipts": 31,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223498513,
+   "produced": true,
+   "tx": 1,
+   "intents": 0,
+   "receipts": 12,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223498632,
+   "produced": true,
+   "tx": 2,
+   "intents": 0,
+   "receipts": 19,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223498770,
+   "produced": true,
+   "tx": 13,
+   "intents": 1,
+   "receipts": 15,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223500158,
+   "produced": true,
+   "tx": 4,
+   "intents": 3,
+   "receipts": 33,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223501818,
+   "produced": true,
+   "tx": 5,
+   "intents": 2,
+   "receipts": 14,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223502692,
+   "produced": true,
+   "tx": 11,
+   "intents": 4,
+   "receipts": 22,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223505604,
+   "produced": true,
+   "tx": 0,
+   "intents": 0,
+   "receipts": 20,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223506201,
+   "produced": true,
+   "tx": 9,
+   "intents": 3,
+   "receipts": 28,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223506705,
+   "produced": true,
+   "tx": 17,
+   "intents": 0,
+   "receipts": 26,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223506787,
+   "produced": true,
+   "tx": 8,
+   "intents": 0,
+   "receipts": 50,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223508132,
+   "produced": true,
+   "tx": 4,
+   "intents": 1,
+   "receipts": 8,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223508282,
+   "produced": true,
+   "tx": 3,
+   "intents": 2,
+   "receipts": 22,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223509025,
+   "produced": true,
+   "tx": 1,
+   "intents": 0,
+   "receipts": 27,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223510543,
+   "produced": true,
+   "tx": 0,
+   "intents": 0,
+   "receipts": 25,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223511754,
+   "produced": true,
+   "tx": 3,
+   "intents": 0,
+   "receipts": 29,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223512439,
+   "produced": true,
+   "tx": 3,
+   "intents": 0,
+   "receipts": 24,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223515095,
+   "produced": true,
+   "tx": 3,
+   "intents": 0,
+   "receipts": 29,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223515246,
+   "produced": true,
+   "tx": 2,
+   "intents": 0,
+   "receipts": 29,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223515932,
+   "produced": true,
+   "tx": 3,
+   "intents": 0,
+   "receipts": 14,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223517219,
+   "produced": true,
+   "tx": 1,
+   "intents": 0,
+   "receipts": 10,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223518717,
+   "produced": true,
+   "tx": 2,
+   "intents": 0,
+   "receipts": 28,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223519072,
+   "produced": true,
+   "tx": 8,
+   "intents": 1,
+   "receipts": 44,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223520322,
+   "produced": true,
+   "tx": 4,
+   "intents": 1,
+   "receipts": 29,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223520927,
+   "produced": true,
+   "tx": 4,
+   "intents": 0,
+   "receipts": 16,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223520932,
+   "produced": true,
+   "tx": 1,
+   "intents": 0,
+   "receipts": 18,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223521416,
+   "produced": true,
+   "tx": 8,
+   "intents": 1,
+   "receipts": 29,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223522629,
+   "produced": true,
+   "tx": 2,
+   "intents": 1,
+   "receipts": 37,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223523526,
+   "produced": true,
+   "tx": 7,
+   "intents": 0,
+   "receipts": 17,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223526173,
+   "produced": true,
+   "tx": 2,
+   "intents": 0,
+   "receipts": 15,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223526551,
+   "produced": true,
+   "tx": 8,
+   "intents": 2,
+   "receipts": 16,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223526876,
+   "produced": true,
+   "tx": 1,
+   "intents": 0,
+   "receipts": 6,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223527492,
+   "produced": true,
+   "tx": 4,
+   "intents": 1,
+   "receipts": 11,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223527868,
+   "produced": true,
+   "tx": 3,
+   "intents": 0,
+   "receipts": 12,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223528415,
+   "produced": true,
+   "tx": 4,
+   "intents": 0,
+   "receipts": 11,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223528610,
+   "produced": true,
+   "tx": 5,
+   "intents": 1,
+   "receipts": 20,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223529136,
+   "produced": true,
+   "tx": 8,
+   "intents": 2,
+   "receipts": 30,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223529203,
+   "produced": true,
+   "tx": 0,
+   "intents": 0,
+   "receipts": 16,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223529220,
+   "produced": true,
+   "tx": 4,
+   "intents": 0,
+   "receipts": 4,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223529241,
+   "produced": true,
+   "tx": 1,
+   "intents": 0,
+   "receipts": 9,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223530700,
+   "produced": true,
+   "tx": 4,
+   "intents": 1,
+   "receipts": 18,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223530811,
+   "produced": true,
+   "tx": 2,
+   "intents": 1,
+   "receipts": 14,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223531974,
+   "produced": true,
+   "tx": 1,
+   "intents": 0,
+   "receipts": 7,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223532561,
+   "produced": true,
+   "tx": 10,
+   "intents": 2,
+   "receipts": 25,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223532871,
+   "produced": true,
+   "tx": 3,
+   "intents": 1,
+   "receipts": 7,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223533054,
+   "produced": true,
+   "tx": 7,
+   "intents": 2,
+   "receipts": 27,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223533848,
+   "produced": true,
+   "tx": 7,
+   "intents": 0,
+   "receipts": 18,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223534974,
+   "produced": true,
+   "tx": 0,
+   "intents": 0,
+   "receipts": 15,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223535006,
+   "produced": true,
+   "tx": 3,
+   "intents": 2,
+   "receipts": 9,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223536529,
+   "produced": true,
+   "tx": 4,
+   "intents": 0,
+   "receipts": 5,
+   "repeated_chunks": 0
+  },
+  {
+   "h": 223536576,
+   "produced": true,
+   "tx": 5,
+   "intents": 2,
+   "receipts": 21,
+   "repeated_chunks": 0
+  }
+ ]
+}
